@@ -67,4 +67,4 @@ Currently targeting roles as **Solution Architect · Data Engineering Lead · Cl
 
 ---
 
-*Open to opportunities in Germany and Europe · Fluent in English & German*
+*Building my own venture in Data & AI · Based in Germany · Fluent in English & German*
