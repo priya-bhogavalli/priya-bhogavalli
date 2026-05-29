@@ -48,7 +48,6 @@ Currently targeting roles as **Solution Architect · Data Engineering Lead · Cl
 
 | Project | Description |
 |---------|------------|
-| [career-ops-priya](https://github.com/priya57/career-ops-priya) | AI-powered job search automation built on Claude Code |
 | [ScholarAI](https://github.com/priya57/ScholarAI) | AI-powered academic research tool |
 | [airflow-workshop](https://github.com/priya57/airflow-workshop) | Apache Airflow workshop materials |
 
