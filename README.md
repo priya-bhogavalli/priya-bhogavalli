@@ -1,7 +1,7 @@
 # Hi, I'm Priya 👋
 
 **Associate Manager, Data Engineering & AI @ Accenture**  
-Essen, Germany · [LinkedIn](https://linkedin.com/in/prudhvipriyanka-bhogavalli) · [Email](mailto:priyanka.bhogavalli@gmail.com)
+Germany · [LinkedIn](https://linkedin.com/in/prudhvipriyanka-bhogavalli)
 
 ---
 
