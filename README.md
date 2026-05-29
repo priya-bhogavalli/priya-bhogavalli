@@ -7,7 +7,7 @@ Essen, Germany · [LinkedIn](https://linkedin.com/in/prudhvipriyanka-bhogavalli)
 
 ## About Me
 
-Data & AI leader with 6+ years delivering scalable data platforms, cloud-native architectures, and AI/ML solutions for enterprise clients across pharma, industrial manufacturing, and energy sectors. I combine deep technical expertise with hands-on delivery leadership — from architecture design to production launch.
+Data & AI leader with 10+ years delivering scalable data platforms, cloud-native architectures, and AI/ML solutions for enterprise clients across pharma, industrial manufacturing, and energy sectors. I combine deep technical expertise with hands-on delivery leadership — from architecture design to production launch.
 
 Currently targeting roles as **Solution Architect · Data Engineering Lead · Cloud Architect (AWS)**.
 
