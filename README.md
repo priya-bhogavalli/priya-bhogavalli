@@ -21,7 +21,6 @@ Currently targeting roles as **Solution Architect · Data Engineering Lead · Cl
 | 💊 Pharmaceutical | ML pipeline migration, AI/ML PoCs, SageMaker |
 | ⚡ Energy & Finance | Enterprise data migration, Snowflake architecture, governance |
 | 📊 Digital Marketing | Data platform delivery, analytics, cloud infrastructure |
-| 🏗 Engineering & Construction | Structural simulation, FEM/CFD modelling (early career) |
 
 ---
 
