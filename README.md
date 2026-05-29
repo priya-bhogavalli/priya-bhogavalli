@@ -48,8 +48,8 @@ Currently targeting roles as **Solution Architect · Data Engineering Lead · Cl
 
 | Project | Description |
 |---------|------------|
-| [ScholarAI](https://github.com/priya57/ScholarAI) | AI-powered academic research tool |
-| [airflow-workshop](https://github.com/priya57/airflow-workshop) | Apache Airflow workshop materials |
+| [ScholarAI](https://github.com/priya-bhogavalli/ScholarAI) | AI-powered academic research tool |
+| [airflow-workshop](https://github.com/priya-bhogavalli/airflow-workshop) | Apache Airflow workshop materials |
 
 ---
 
