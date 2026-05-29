@@ -18,8 +18,9 @@ Currently targeting roles as **Solution Architect · Data Engineering Lead · Cl
 | Industry | Experience |
 |----------|-----------|
 | 🏭 Industrial Manufacturing | Product data platforms, real-time streaming, SAP HANA → Snowflake migration |
-| 💊 Pharmaceutical | ML pipeline migration, AI/ML PoCs, SageMaker, enterprise database assessment |
-| ⚡ Energy & Finance | Enterprise data migration, Snowflake CDP architecture, governance frameworks |
+| 💊 Life Sciences & Pharmaceutical | ML pipeline migration, AI/ML PoCs, SageMaker, enterprise database assessment |
+| 💰 Finance | Enterprise data migration, Snowflake CDP architecture, governance & compliance frameworks |
+| ⚡ Energy | Data platform migration, Snowflake architecture, cost optimisation |
 | 📊 Digital Marketing | Central data platform engineering, cloud operations, AWS data integration |
 | 🔩 Steel & Heavy Industry | Datafactory development, ETL/CDC pipelines, AWS data integration (SMS Digital) |
 | 💻 IT Services & Software | Web & desktop application development, data analytics, BI (Power BI, Tableau) |
