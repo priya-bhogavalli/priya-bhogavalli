@@ -7,9 +7,21 @@ Germany · [LinkedIn](https://linkedin.com/in/prudhvipriyanka-bhogavalli)
 
 ## About Me
 
-Data & AI leader with 10+ years delivering scalable data platforms, cloud-native architectures, and AI/ML solutions for enterprise clients across pharma, industrial manufacturing, and energy sectors. I combine deep technical expertise with hands-on delivery leadership — from architecture design to production launch.
+Data & AI leader with 10+ years delivering scalable data platforms, cloud-native architectures, and AI/ML solutions for enterprise clients. I combine deep technical expertise with hands-on delivery leadership — from architecture design to production launch.
 
 Currently targeting roles as **Solution Architect · Data Engineering Lead · Cloud Architect (AWS)**.
+
+---
+
+## Industries
+
+| Industry | Experience |
+|----------|-----------|
+| 🏭 Industrial Manufacturing | Product data platforms, real-time streaming, microservices |
+| 💊 Pharmaceutical | ML pipeline migration, AI/ML PoCs, SageMaker |
+| ⚡ Energy & Finance | Enterprise data migration, Snowflake architecture, governance |
+| 📊 Digital Marketing | Data platform delivery, analytics, cloud infrastructure |
+| 🏗 Engineering & Construction | Structural simulation, FEM/CFD modelling (early career) |
 
 ---
 
