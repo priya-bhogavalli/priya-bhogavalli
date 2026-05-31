@@ -1,0 +1,24 @@
+# === SECRETS ===
+.env
+.env.*
+!.env.example
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === OS ===
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# === TEMP ===
+*.tmp
+*.temp
+*.bak
+*.orig
